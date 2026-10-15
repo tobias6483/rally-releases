@@ -1,18 +1,20 @@
-# Tavle – installere (beta)
+# Rally – installere (beta)
 
-Her ligger de færdige installere til Tavles desktop-app. Der er ingen kildekode i dette repo.
+Her ligger de færdige installere til Rallys desktop-app. Der er ingen kildekode i dette repo.
 
-- **Hent den nyeste version:** [Releases → Latest](https://github.com/tobias6483/tavle-releases/releases/latest)
+- **Hent den nyeste version:** [Releases → Latest](https://github.com/tobias6483/rally-releases/releases/latest)
 - **Mac:** filen, der ender på `.dmg` (Apple Silicon og Intel, macOS 11 eller nyere).
 - **Windows:** filen, der ender på `-setup.exe` (kommer, når Windows-buildet kører).
-- **Uden installation:** [tavle-app-jet.vercel.app](https://tavle-app-jet.vercel.app) virker i browseren og kan installeres som app derfra.
+- **Uden installation:** [rally-app-jet.vercel.app](https://rally-app-jet.vercel.app) virker i browseren og kan installeres som app derfra.
 
 ## Første gang
 
 Betaen er endnu ikke signeret med certifikater fra Apple og Microsoft, så computeren advarer første gang.
 
-**Mac:** åbn DMG-filen og træk Tavle over i Programmer. Åbn Tavle, tryk »OK« til advarslen, og gå til Systemindstillinger → Anonymitet og sikkerhed → »Åbn alligevel«.
+**Mac:** åbn DMG-filen og træk Rally over i Programmer. Åbn Rally, tryk »OK« til advarslen, og gå til Systemindstillinger → Anonymitet og sikkerhed → »Åbn alligevel«.
 
 **Windows:** viser Windows »Windows beskyttede din pc«, så tryk »Flere oplysninger« og derefter »Kør alligevel«.
 
-Vejledningen står også på [tavle-site.vercel.app/hent](https://tavle-site.vercel.app/hent/).
+Vejledningen står også på [rally-site-jet.vercel.app/hent](https://rally-site-jet.vercel.app/hent/).
+
+Versionerne til og med 0.1.6 hed Tavle. Har du en af dem, så slet Tavle og hent Rally herfra.
